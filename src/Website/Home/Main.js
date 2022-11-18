@@ -10,7 +10,7 @@ $(function () {
   });
 });
 
-const Home = () => {
+const Main = () => {
   return (
     <>
       <header className="header">
@@ -583,4 +583,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Main;

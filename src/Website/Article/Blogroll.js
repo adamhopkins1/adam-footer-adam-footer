@@ -1,5 +1,15 @@
 import React from "react";
 
+$(function () {
+  $(window).on("scroll", function () {
+    if ($(window).scrollTop() > 10) {
+      $(".navbar").addClass("active");
+    } else {
+      $(".navbar").removeClass("active");
+    }
+  });
+});
+
 const Blogroll = () => {
   return (
     <>
@@ -75,7 +85,7 @@ const Blogroll = () => {
         </nav>
       </header>
 
-      <div class="container">
+      <div className="container">
         <div class="page-header">
           <h1>
             The Blog Staff Blogs <small>Blog / Blogroll</small>
