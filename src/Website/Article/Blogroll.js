@@ -92,37 +92,37 @@ const Blogroll = () => {
           </h1>
         </div>
 
-        <div class="row">
-          <div class="col-md-8">
+        <div className="row">
+          <div className="col-md-8">
             <article id="">
               <header>
-                <div class="meta">
-                  Written by <span class="author">Adam H</span>{" "}
-                  <span class="date">11/16/22</span> |{" "}
-                  <span class="comments">
-                    <span class="badge">4</span> Comments
+                <div className="meta">
+                  Written by <span className="author">Adam H</span>{" "}
+                  <span className="date">11/16/22</span> |{" "}
+                  <span className="comments">
+                    <span className="badge">4</span> Comments
                   </span>
                 </div>
                 <h2>
                   <a href="">Sociology is still relevant in inequal times.</a>
                 </h2>
               </header>
-              <div class="entry-content">
+              <div className="entry-content">
                 <a href="">
                   <img
-                    src="http://placehold.it/750x420"
+                    src="https://s3.amazonaws.com/libapps/accounts/5784/images/Sociology-wordle.png"
                     alt=""
-                    class="img-fluid"
+                    className="img-fluid"
                   />
                 </a>
-                <p class="lead">
+                <p className="lead">
                   Sociology can help establish empathy and understanding among other stratified and majority groups in general society. &hellip;
                 </p>
 
-                <a href="#" class="btn btn-primary">
+                <a href="#" className="btn btn-primary">
                   Read More{" "}
                   <span
-                    class="glyphicon glyphicon glyphicon-chevron-right"
+                    className="glyphicon glyphicon glyphicon-chevron-right"
                     aria-hidden="true"
                   ></span>
                 </a>
@@ -131,33 +131,33 @@ const Blogroll = () => {
             </article>
             <article id="">
               <header>
-                <div class="meta">
-                  Written by <span class="author">Adam H.</span>{" "}
-                  <span class="date">1/30/16</span> |{" "}
-                  <span class="comments">
-                    <span class="badge">4</span> Comments
+                <div className="meta">
+                  Written by <span className="author">Adam H.</span>{" "}
+                  <span className="date">1/30/16</span> |{" "}
+                  <span className="comments">
+                    <span className="badge">4</span> Comments
                   </span>
                 </div>
                 <h2>
                   <a href="">What does Max Weber mean to me?</a>
                 </h2>
               </header>
-              <div class="entry-content">
+              <div className="entry-content">
                 <a href="">
                   <img
-                    src="http://placehold.it/750x420"
+                    src="https://www.researchgate.net/publication/43294580/figure/fig1/AS:340772160327684@1458257822382/Emergent-themes-in-the-Protestant-ethic.png"
                     alt=""
-                    class="img-fluid"
+                    className="img-fluid"
                   />
                 </a>
                 <p>
                   Revisiting Max Weber in 2022 does his ideas have any relevancy within the inherent issues in the Worldlense.Max Weber concepts still stands from division of labor to the protestant ethic the modern concepts have full relevancy than they have since over 100 years ago.
                 </p>
 
-                <a href="#" class="btn btn-primary">
+                <a href="#" className="btn btn-primary">
                   Read More{" "}
                   <span
-                    class="glyphicon glyphicon glyphicon-chevron-right"
+                    className="glyphicon glyphicon glyphicon-chevron-right"
                     aria-hidden="true"
                   ></span>
                 </a>
@@ -166,33 +166,33 @@ const Blogroll = () => {
             </article>
             <article id="">
               <header>
-                <div class="meta">
-                  Written by <span class="author">Adam H.</span>{" "}
-                  <span class="date">1/30/16</span> |{" "}
-                  <span class="comments">
-                    <span class="badge">4</span> Comments
+                <div className="meta">
+                  Written by <span className="author">Adam H.</span>{" "}
+                  <span className="date">1/30/16</span> |{" "}
+                  <span className="comments">
+                    <span className="badge">4</span> Comments
                   </span>
                 </div>
                 <h2>
                   <a href="">Herber Spencer,the enigimatic darwinist.</a>
                 </h2>
               </header>
-              <div class="entry-content">
+              <div className="entry-content">
                 <a href="">
                   <img
-                    src="http://placehold.it/750x420"
+                    src="https://91b6be3bd2294a24b7b5-da4c182123f5956a3d22aa43eb816232.ssl.cf1.rackcdn.com/contentItem-5612914-42753170-wc9p9rw23lphv-or.jpg"
                     alt=""
-                    class="img-fluid"
+                    className="img-fluid"
                   />
                 </a>
                 <p>
                   Theres not many books written on the controversial and long held concept of social darwinism many have attempted to tie it and abscribe it to an social evolution concept, but according to recent theorists have attempted to find alternate more practical applications that can be found not only in the social scientific field but can range from psychology to anthropology as well.
                 </p>
 
-                <a href="#" class="btn btn-primary">
+                <a href="#" className="btn btn-primary">
                   Read More{" "}
                   <span
-                    class="glyphicon glyphicon glyphicon-chevron-right"
+                    className="glyphicon glyphicon glyphicon-chevron-right"
                     aria-hidden="true"
                   ></span>
                 </a>
@@ -201,33 +201,33 @@ const Blogroll = () => {
             </article>
             <article id="">
               <header>
-                <div class="meta">
-                  Written by <span class="author">Adam H.</span>{" "}
-                  <span class="date">1/30/16</span> |{" "}
-                  <span class="comments">
-                    <span class="badge">4</span> Comments
+                <div className="meta">
+                  Written by <span className="author">Adam H.</span>{" "}
+                  <span className="date">1/30/16</span> |{" "}
+                  <span className="comments">
+                    <span className="badge">4</span> Comments
                   </span>
                 </div>
                 <h2>
                   <a href="">The World According to Martineau</a>
                 </h2>
               </header>
-              <div class="entry-content">
+              <div className="entry-content">
                 <a href="">
                   <img
-                    src="http://placehold.it/750x420"
+                    src="https://images.ecestaticos.com/2R_7B9SfKVOgNb5BmwAFRH8MLUE=/0x0:888x673/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1b2%2F6ec%2F7d5%2F1b26ec7d55eddeb943fbf70a497a27b0.jpg"
                     alt=""
-                    class="img-fluid"
+                    className="img-fluid"
                   />
                 </a>
                 <p>
                   Harriet Matineau was famous for her holistic whole-view of sociology and being the first known female sociologist. But theres much more to learn from her ideas and life that will can be beneficial to understanding the meta/microview of science.
                 </p>
 
-                <a href="#" class="btn btn-primary">
+                <a href="#" className="btn btn-primary">
                   Read More{" "}
                   <span
-                    class="glyphicon glyphicon glyphicon-chevron-right"
+                    className="glyphicon glyphicon glyphicon-chevron-right"
                     aria-hidden="true"
                   ></span>
                 </a>
@@ -236,15 +236,15 @@ const Blogroll = () => {
             </article>
 
             <nav>
-              <ul class="pagination">
-                <li class="disabled">
+              <ul className="pagination">
+                <li className="disabled">
                   <a href="#" aria-label="Previous">
                     <span aria-hidden="true">&laquo;</span>
                   </a>
                 </li>
-                <li class="active">
+                <li className="active">
                   <a href="#">
-                    1 <span class="sr-only">(current)</span>
+                    1 <span className="sr-only">(current)</span>
                   </a>
                 </li>
                 <li>
@@ -267,24 +267,24 @@ const Blogroll = () => {
               </ul>
             </nav>
           </div>
-          <aside class="col-md-4">
-            <div class="card mb-3">
-              <h3 class="card-header mb-3">Join our Newsletter</h3>
-              <form class="form-horizontal">
-                <div class="form-group">
-                  <div class="col-sm-12">
+          <aside className="col-md-4">
+            <div className="card mb-3">
+              <h3 className="card-header mb-3">Join our Newsletter</h3>
+              <form className="form-horizontal">
+                <div className="form-group">
+                  <div className="col-sm-12">
                     <input
                       type="email"
-                      class="form-control"
+                      className="form-control"
                       id="inputEmail3"
                       placeholder="Email"
                     />
                   </div>
                 </div>
 
-                <div class="form-group">
-                  <div class="col-sm-12">
-                    <button type="submit" class="btn btn-primary">
+                <div className="form-group">
+                  <div className="col-sm-12">
+                    <button type="submit" className="btn btn-primary">
                       Join Us
                     </button>
                   </div>
@@ -293,51 +293,51 @@ const Blogroll = () => {
             </div>
 
             <h3>Recent Posts</h3>
-            <div class="list-group  mb-3">
-              <a href="#" class="list-group-item active">
-                <h4 class="list-group-item-heading">List group item heading</h4>
-                <p class="list-group-item-text">
+            <div className="list-group  mb-3">
+              <a href="#" className="list-group-item active">
+                <h4 className="list-group-item-heading">List group item heading</h4>
+                <p className="list-group-item-text">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
                   optio eum &hellip;
                 </p>
               </a>
-              <a href="#" class="list-group-item">
-                <h4 class="list-group-item-heading">List group item heading</h4>
-                <p class="list-group-item-text">
+              <a href="#" className="list-group-item">
+                <h4 className="list-group-item-heading">List group item heading</h4>
+                <p className="list-group-item-text">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
                   optio eum &hellip;
                 </p>
               </a>
-              <a href="#" class="list-group-item">
-                <h4 class="list-group-item-heading">List group item heading</h4>
-                <p class="list-group-item-text">
+              <a href="#" className="list-group-item">
+                <h4 className="list-group-item-heading">List group item heading</h4>
+                <p className="list-group-item-text">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
                   optio eum &hellip;
                 </p>
               </a>
-              <a href="#" class="list-group-item">
-                <h4 class="list-group-item-heading">List group item heading</h4>
-                <p class="list-group-item-text">
+              <a href="#" className="list-group-item">
+                <h4 className="list-group-item-heading">List group item heading</h4>
+                <p className="list-group-item-text">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
                   optio eum &hellip;
                 </p>
               </a>
             </div>
 
-            <div class="container">
+            <div className="container">
               <h3>Follow Us</h3>
-              <div class="social">
+              <div className="social">
                 <a href="">
-                  <i class="fa fa-3x fa-facebook-square"></i>
+                  <i className="fa fa-3x fa-facebook-square"></i>
                 </a>
                 <a href="">
-                  <i class="fa fa-3x fa-twitter-square"></i>
+                  <i className="fa fa-3x fa-twitter-square"></i>
                 </a>
                 <a href="">
-                  <i class="fa fa-3x fa-linkedin-square"></i>
+                  <i className="fa fa-3x fa-linkedin-square"></i>
                 </a>
                 <a href="">
-                  <i class="fa fa-3x fa-google-plus-square"></i>
+                  <i className="fa fa-3x fa-google-plus-square"></i>
                 </a>
               </div>
             </div>

@@ -13,13 +13,13 @@ class App extends Component {
            <div className="App">
             <ul className="header">
             <li>
-                <Link to="/main">Home</Link>
+            <Link to="/">Home</Link>
               </li>
               <li>
                 <Link to="/nav">Nav</Link>
               </li>
               <li>
-                <Link to="/blogroll">Blog</Link>
+                <Link to="/blogroll">BlogRoll</Link>
               </li>
               <li>
                 <Link to="/footer">Footer</Link>
@@ -27,7 +27,7 @@ class App extends Component {
             </ul>
            <Routes>
                  <Route exact path='/' element={< Main/>}></Route>
-                 <Route exact path='Nav' element={< Nav />}></Route>
+                  <Route exact path='Nav' element={< Nav />}></Route>
                  <Route exact path='/blogroll' element={< Blogroll />}></Route>
                  <Route exact path='/footer' element={< Footer />}></Route>
           </Routes>
