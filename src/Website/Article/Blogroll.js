@@ -327,13 +327,13 @@ const Blogroll = () => {
                   <i className="fa fa-3x fa-youtube-square"></i>
                 </a>
                 <a href="">
-                  <i className="fa fa-3x fa-instagram-square"></i>
+                  <i className="fa fa-3x fa-facebook-square"></i>
                 </a>
                 <a href="">
                   <i className="fa fa-3x fa-linkedin-square"></i>
                 </a>
                 <a href="">
-                  <i className="fa fa-3x fa-tik-tok-square"></i>
+                  <i className="fa fa-3x fa-pinterest-square"></i>
                 </a>
               </div>
             </div>
