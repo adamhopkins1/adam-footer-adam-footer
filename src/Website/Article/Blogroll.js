@@ -295,31 +295,27 @@ const Blogroll = () => {
             <h3>Recent Posts</h3>
             <div className="list-group  mb-3">
               <a href="#" className="list-group-item active">
-                <h4 className="list-group-item-heading">List group item heading</h4>
+                <h4 className="list-group-item-heading">Vacations in the West</h4>
                 <p className="list-group-item-text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
-                  optio eum &hellip;
+                  A author taking a trip to Los Angeles to take in the sights and sounds of Hollywood. &hellip;
                 </p>
               </a>
               <a href="#" className="list-group-item">
-                <h4 className="list-group-item-heading">List group item heading</h4>
+                <h4 className="list-group-item-heading">Is too much too much?</h4>
                 <p className="list-group-item-text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
-                  optio eum &hellip;
+                  Working towards a life of balance and personal health goals post-pandemic. &hellip;
                 </p>
               </a>
               <a href="#" className="list-group-item">
-                <h4 className="list-group-item-heading">List group item heading</h4>
+                <h4 className="list-group-item-heading">Thoughts On Life and Intensions Towards Happiness.</h4>
                 <p className="list-group-item-text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
-                  optio eum &hellip;
+                  What matters when life gets in the way of happiness? Is it a challenge or a state of mind? &hellip;
                 </p>
               </a>
               <a href="#" className="list-group-item">
-                <h4 className="list-group-item-heading">List group item heading</h4>
+                <h4 className="list-group-item-heading">My First Post</h4>
                 <p className="list-group-item-text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam,
-                  optio eum &hellip;
+                  Hello and Welcome to my personal off-topic posts.Enjoy and your're welcome. &hellip;
                 </p>
               </a>
             </div>
@@ -328,16 +324,16 @@ const Blogroll = () => {
               <h3>Follow Us</h3>
               <div className="social">
                 <a href="">
-                  <i className="fa fa-3x fa-facebook-square"></i>
+                  <i className="fa fa-3x fa-youtube-square"></i>
                 </a>
                 <a href="">
-                  <i className="fa fa-3x fa-twitter-square"></i>
+                  <i className="fa fa-3x fa-instagram-square"></i>
                 </a>
                 <a href="">
                   <i className="fa fa-3x fa-linkedin-square"></i>
                 </a>
                 <a href="">
-                  <i className="fa fa-3x fa-google-plus-square"></i>
+                  <i className="fa fa-3x fa-tik-tok-square"></i>
                 </a>
               </div>
             </div>
@@ -412,13 +408,13 @@ const Blogroll = () => {
                       <a href="#">About Us</a>
                     </li>
                     <li>
-                      <a href="#">Corporate Sale</a>
+                      <a href="#">History</a>
                     </li>
                     <li>
-                      <a href="#">Terms &amp; Policy</a>
+                      <a href="#">Sociology &amp; Concepts</a>
                     </li>
                     <li>
-                      <a href="#">Community</a>
+                      <a href="#">Forums</a>
                     </li>
                   </ul>
                 </div>
@@ -430,16 +426,16 @@ const Blogroll = () => {
                 <div className="footer_menu">
                   <ul>
                     <li>
-                      <a href="#">Help</a>
+                      <a href="#">Sociology Resources</a>
                     </li>
                     <li>
-                      <a href="#">Support</a>
+                      <a href="#">What is Sociology?</a>
                     </li>
                     <li>
-                      <a href="#">Privacy Policy</a>
+                      <a href="#">Media and Videos</a>
                     </li>
                     <li>
-                      <a href="#">Term &amp; Conditions</a>
+                      <a href="#">Insight &amp; Viewpoints</a>
                     </li>
                     <li>
                       <a href="#">Help &amp; Support</a>
@@ -454,16 +450,16 @@ const Blogroll = () => {
                 <div className="footer_menu">
                   <ul>
                     <li>
-                      <a href="#">Call Centre</a>
+                      <a href="#">Address</a>
                     </li>
                     <li>
-                      <a href="#">Email Us</a>
+                      <a href="#">Contact Number</a>
                     </li>
                     <li>
                       <a href="#">Term &amp; Conditions</a>
                     </li>
                     <li>
-                      <a href="#">Help Center</a>
+                      <a href="#">FAQ</a>
                     </li>
                   </ul>
                 </div>
